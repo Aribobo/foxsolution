@@ -21,6 +21,7 @@
   "rmk":"Remark",
   "rn":"Receiver Name",
   "ds":"Date shipped",
+  "pdt": "Product",
   "qt":"Quantity",
   "wt":"Weight",
   "re":"Receiver Email",

@@ -102,7 +102,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-col justify-center items-center text-center text-white p-5 bg-[#1f425d]">
           <h5 className="  font-semibold">
-            © 2024 Foxcontinental || All
+            © 2025 Foxcontinental || All
             rights reserved
           </h5>
         </div>

@@ -25,6 +25,7 @@
   "ds": "Date d'expédition",
   "dc":" Ville de Destination",
   "sd": "Détails d'expédition",
+  "pdt": "produit",
   "dest": "Destination",
   "origin": "Origine",
   "edd": "Date de livraison prévue",

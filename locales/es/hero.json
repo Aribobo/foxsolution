@@ -30,6 +30,7 @@
   "cl": "ubicación actual del artículo",
   "ds":"Fecha de envío",
   "sd":"Detalles de envío",
+  "pdt": "producto",
   "dest":"Destino",
   "origin":"Origen",
   "entrepreneur": "Emprendedor",
