@@ -71,7 +71,7 @@ const Navbar = () => {
             className="font-bold text-3xl pb-6 hover:cursor-pointer py-4"
           >
             <Image className="  md:ml-8 lg:ml-8"
-              src="https://res.cloudinary.com/ddukktwrv/image/upload/v1730558573/FoxContinental_2_lswm7m.png"
+              src="https://res.cloudinary.com/ddukktwrv/image/upload/v1787768790/fox_bpnbxp.png"
               alt="Foxcontinental"
               height={100}
               width={330}
